@@ -1,4 +1,4 @@
-import { ContactForm } from '@/app/contact/page';
+import { type ContactForm } from '@/app/contact/page';
 import Z from '@/utils/validator';
 
 const MIN_CONTENT_NUM = 10;
